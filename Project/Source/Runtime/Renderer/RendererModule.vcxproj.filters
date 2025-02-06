@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\WorkSpace\GameMath\gamemath-main\Source\Runtime\Renderer\Precompiled.cpp" />
+    <ClCompile Include="C:\WorkSpace\GameMath\gamemath-main\Source\Runtime\Renderer\Private\2D\Shader.cpp">
+      <Filter>Private\2D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\WorkSpace\GameMath\gamemath-main\Source\Runtime\Renderer\Private\2D\Vertex.cpp">
+      <Filter>Private\2D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\WorkSpace\GameMath\gamemath-main\Source\Runtime\Renderer\Private\3D\PerspectiveTest.cpp">
+      <Filter>Private\3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\WorkSpace\GameMath\gamemath-main\Source\Runtime\Renderer\Private\3D\Shader.cpp">
+      <Filter>Private\3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\WorkSpace\GameMath\gamemath-main\Source\Runtime\Renderer\Private\3D\Vertex.cpp">
+      <Filter>Private\3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\WorkSpace\GameMath\gamemath-main\Source\Runtime\Renderer\Private\Windows\WindowsGDI.cpp">
+      <Filter>Private\Windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\WorkSpace\GameMath\gamemath-main\Source\Runtime\Renderer\Private\Windows\WindowsRSI.cpp">
+      <Filter>Private\Windows</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\WorkSpace\GameMath\gamemath-main\Source\Runtime\Renderer\Precompiled.h" />
+    <ClInclude Include="C:\WorkSpace\GameMath\gamemath-main\Source\Runtime\Renderer\Public\2D\Shader.h">
+      <Filter>Public\2D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\WorkSpace\GameMath\gamemath-main\Source\Runtime\Renderer\Public\2D\Vertex.h">
+      <Filter>Public\2D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\WorkSpace\GameMath\gamemath-main\Source\Runtime\Renderer\Public\3D\PerspectiveTest.h">
+      <Filter>Public\3D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\WorkSpace\GameMath\gamemath-main\Source\Runtime\Renderer\Public\3D\Shader.h">
+      <Filter>Public\3D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\WorkSpace\GameMath\gamemath-main\Source\Runtime\Renderer\Public\3D\Vertex.h">
+      <Filter>Public\3D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\WorkSpace\GameMath\gamemath-main\Source\Runtime\Renderer\Public\RendererHeaders.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\WorkSpace\GameMath\gamemath-main\Source\Runtime\Renderer\Public\RendererInterface.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\WorkSpace\GameMath\gamemath-main\Source\Runtime\Renderer\Public\Windows\WindowsGDI.h">
+      <Filter>Public\Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\WorkSpace\GameMath\gamemath-main\Source\Runtime\Renderer\Public\Windows\WindowsRSI.h">
+      <Filter>Public\Windows</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Private">
+      <UniqueIdentifier>{6A5586EF-1F14-3815-B26B-CEA2A939BD8A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Private\2D">
+      <UniqueIdentifier>{48FBCBF2-6945-34F7-A07B-A817E9D002B3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Private\3D">
+      <UniqueIdentifier>{3B9C8EFF-4526-3995-BE80-E874A1195E3B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Private\Windows">
+      <UniqueIdentifier>{0EE9DF4C-48C1-37D3-9F1B-3C4DF239C43C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Public">
+      <UniqueIdentifier>{8133913E-A251-3630-8DFC-21B7CF0DE343}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Public\2D">
+      <UniqueIdentifier>{8E457E73-838B-36E0-ADB9-CD53DB7B85B0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Public\3D">
+      <UniqueIdentifier>{CD09A7FE-0D7D-34E9-BD7F-F67A65D285E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Public\Windows">
+      <UniqueIdentifier>{135D123F-CFE3-3723-AAB1-82DC337C37A3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
